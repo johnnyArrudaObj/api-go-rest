@@ -1,7 +1,5 @@
 # GOLANG API REST WITH KAFKA AND CONTROL-CENTER
 
-Simple overview of use/purpose.
-
 ## Description
 
 This is a POC in order to apply the knowledge acquired in Golang
@@ -24,14 +22,6 @@ sudo apt install build-essential librdkafka-dev -y
 ```
 sudo nano /etc/hosts
 127.0.0.1       kafka
-```
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
 ```
 
 ## Help
